@@ -20,6 +20,9 @@ dataset: https://www.kaggle.com/kmader/parkinsons-drawings
 
 detect_Parkinson.py--code to detect parkinson's disease
 
+Type the following commands in command prompt to execute the code:
+python <name of the python file> --dataset <name of dataset>/spiral
+            replace 'spiral' with 'wave' to execute wave dataset
 
 Future Enhancements:
 • Accuracy of the model can be improved if more test data is provided • Once the accuracy of the model is increased it could be used as a replacement for the DaTscan, which allows doctors to see the detailed pictures of the brain’s dopamine system.
